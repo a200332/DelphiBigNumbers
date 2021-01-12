@@ -1,3 +1,6 @@
+*Note*  January 11, 2021:  Unfortunately [Rudy passed away in 2019](https://wiert.me/2020/01/05/in-memoriam-rudy-velthuis/), leaving this repository abandoned.  
+
+
 # BigNumbers
 
 ### BigInteger, BigDecimal and BigRational for Delphi
